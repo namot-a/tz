@@ -1,0 +1,6 @@
+// onChange={(event) => setValue(event.target.value)}
+// const [value, setValue] = useState("");
+
+// const filteredLang = checkboxs.filter((name) => {
+//   return name.toLowerCase().includes(value.toLowerCase());
+// });
