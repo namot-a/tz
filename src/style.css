@@ -16,6 +16,7 @@ body {
     display: flex;
     flex-direction: column;
     width: 400px;
+    margin-top: 100px;
 }
 
 .dropdown>span {
@@ -61,6 +62,7 @@ body {
     display: flex;
     align-items: center;
     margin-right: 10px;
+    cursor: pointer;
 }
 
 .filter>p {
@@ -84,6 +86,7 @@ body {
     height: 24px;
     border: 2px solid #C1C1C1;
     border-radius: 6px;
+    cursor: pointer;
     position: relative;
 }
 
